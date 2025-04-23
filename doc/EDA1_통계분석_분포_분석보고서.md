@@ -3,13 +3,13 @@
 ![ISSUE #61 EDA-1](https://github.com/orgs/Pangyo-Coffee-Legends/projects/4/views/4?pane=issue&itemId=107528819&issue=Pangyo-Coffee-Legends%7Cbacklog%7C61)
 
 ## 주요 환경 변수 기본 통계량
-![환경_모니터링_1일_추이](img/센서별_통계량.png)
+![환경_모니터링_1일_추이](../img/센서별_통계량.png)
 
 ### 통계적 관점에서 주목할 만한 점:
 - 변동성 차이: 대기압(CV=0.4%)은 매우 안정적인 반면, 조도(CV=130.3%)는 극도로 높은 변동성을 보임
 
 이상치 가능성: 이산화탄소 농도 최대값(1468ppm)은 일반적인 실내 권장 한계(1000ppm)를 크게 초과하여 환기 개선이 필요
-참고 자료 :![환경정보시스템_근거자료](https://www.ehtis.or.kr/cmn/sym/mnu/mpm/111021203/htmlCnView.do)
+참고 자료 : (https://www.ehtis.or.kr/cmn/sym/mnu/mpm/111021203/htmlCnView.do)
 
 
 CO₂ 농도: 아침 6-12시에 급격히 증가 (최대 1468ppm) → 환기 시스템 개선 필요
