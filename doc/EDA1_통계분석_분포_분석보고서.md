@@ -1,6 +1,6 @@
 # 시간에 따른 변수 변화  
 
-![ISSUE #61 EDA-1](https://github.com/orgs/Pangyo-Coffee-Legends/projects/4/views/4?pane=issue&itemId=107528819&issue=Pangyo-Coffee-Legends%7Cbacklog%7C61)
+[ISSUE #61 EDA-1](https://github.com/orgs/Pangyo-Coffee-Legends/projects/4/views/4?pane=issue&itemId=107528819&issue=Pangyo-Coffee-Legends%7Cbacklog%7C61)
 
 ## 주요 환경 변수 기본 통계량
 ![환경_모니터링_1일_추이](../img/센서별_통계량.png)

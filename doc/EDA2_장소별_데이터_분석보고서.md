@@ -1,5 +1,5 @@
 # 장소별 데이터 분석
-![ISSUE #62 EDA-2](https://github.com/orgs/Pangyo-Coffee-Legends/projects/4/views/4?pane=issue&itemId=107529039&issue=Pangyo-Coffee-Legends%7Cbacklog%7C62)
+[ISSUE #62 EDA-2](https://github.com/orgs/Pangyo-Coffee-Legends/projects/4/views/4?pane=issue&itemId=107529039&issue=Pangyo-Coffee-Legends%7Cbacklog%7C62)
 
 ## 장소별 환경 특성 분석
 ### 온도 분포

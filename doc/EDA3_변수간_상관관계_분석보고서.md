@@ -1,4 +1,5 @@
 # 변수간 상관 관계
+[ISSUE #63 EDA-3](https://github.com/orgs/Pangyo-Coffee-Legends/projects/4/views/4?pane=issue&itemId=107529232&issue=Pangyo-Coffee-Legends%7Cbacklog%7C63)
 
 ## 환경 변수 상관관계
 ![환경변수상관관계](../img/correlation/heatmap.png)
@@ -14,7 +15,7 @@
 즉, 공부하기 위해 모인 이 학원 공간과 업무하며 컴퓨터를 자주 보는 사무실에서는 조도 역시 중요할 것
 
 #### 3. 활동량-CO2 관계(상관계수 0.38)
-![활동량_CO2](..img/correlation/activity_co2.png)
+![활동량_CO2](../img/correlation/activity_co2.png)
 예상과 달리 Co2 - 활동량은 강한 상관관계를 보이지 않음 
 산점도는 낮은 활동량 구간에서는 분산이 크지만 활동량이 증가할수록(30 이상) Co2 농도가 급격히 상승 
 
